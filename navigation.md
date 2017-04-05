@@ -19,6 +19,6 @@
 
 [グラウンド情報]()
 
-  * [物部小学校](02/02-01.md)
+  * [物部小学校](https://goo.gl/maps/VSD71kZum7o)
 
 [gimmick:theme](cerulean)
