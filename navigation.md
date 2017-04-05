@@ -17,8 +17,6 @@
   * [山田哲人のテーマ](01/01-13.md)
   * [必殺仕事人](01/01-14.md)
 
-[グラウンド情報]()
-
-  * [物部小学校](https://goo.gl/maps/VSD71kZum7o)
+[グラウンド情報](02.md)
 
 [gimmick:theme](cerulean)
