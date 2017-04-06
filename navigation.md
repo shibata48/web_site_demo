@@ -27,6 +27,6 @@
   * [他チームのグラウンド情報](02/02-05.md)
   * [一般のグラウンド情報](02/02-06.md)
 
-<!-- [gimmick:themechooser](テーマ変更) -->
+[gimmick:themechooser](テーマ変更)
 
 [gimmick:theme](cerulean)
