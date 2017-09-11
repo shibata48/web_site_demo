@@ -1,9 +1,5 @@
 ## MONOBE-BASEBALL-CLUB (UNOFFICIAL)
 ---
-### [応援歌](01/01_main.md)
-### [グラウンド情報](02/02_main.md)
-### [大会情報](03/03_main.md)
----
 ### [滋賀県軟式野球連盟](http://www13.plala.or.jp/shigassbb/)
 ### [彦根学童野球連盟](http://www2.hp-ez.com/hp/hikonegakudo/)
 ---
